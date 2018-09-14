@@ -1,6 +1,6 @@
 # Quantum Mechanics GUI
 ## Outline of Project ##
-This repository contains my first python project - a 3 Week Project completed in 2015 displaying the properties of an infinite square well barrier and a quantum harmonic oscillator. The purpose of the prohect was to create a GUI using Tkinter that could be used to demonstrate some of the concepts learnt during my second year quantum mechanics course. Overall for this python module, I achieved a grade of 75%.
+This repository contains my first python project (a 3 Week Project completed in 2015 during my second year of undergraduate studies) displaying the properties of an infinite square well barrier and a quantum harmonic oscillator. The purpose of the prohect was to create a GUI using Tkinter that could be used to demonstrate some of the concepts learnt during my second year quantum mechanics course. Overall for this python module, I achieved a grade of 75%.
 
 The theoretical background of the physics of the project is included in Section 1 of the report.
 
