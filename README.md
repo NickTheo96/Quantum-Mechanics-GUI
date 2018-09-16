@@ -15,7 +15,7 @@ GUI.py is the single executable python script implementing classes (this project
 Some documentation of the project is also included in the report.
 
 ## Packages Required: ##
-Environment set up in python 3.5 and runs with following packages:
+Environment set up in python 2.7 and runs with following packages:
 * numpy        V:1.15.1
 * tk           V:8.5.13
 * matplotlib   V:2.1.0
